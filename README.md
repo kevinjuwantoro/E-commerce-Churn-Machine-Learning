@@ -1,8 +1,5 @@
 # **E-commerce Customer Churn Prediction using Machine Learning**
 
-<img src = 'https://cdn.shopify.com/s/files/1/0070/7032/files/churn_rate_in_ecommerce.png?format=jpg&quality=90&v=1667579315&width=1024'>
-
-
 ## **Background Business Problem Understanding**
 
 <img src ='https://www.zonkafeedback.com/hs-fs/hubfs/leading-causes-of-customer-churn-1.png?width=1920&name=leading-causes-of-customer-churn-1.png'>
