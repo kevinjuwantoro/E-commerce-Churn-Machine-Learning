@@ -363,4 +363,4 @@ Therefore, if the goal is to maximize revenue and effectively manage churn-relat
 6. Continuous Monitoring and Updating: Regularly monitor model performance and update it as new data becomes available to adapt to changing customer behavior and market dynamics.
 ## Authors
 
-* **Hieremias Kevin Juwantoro** - *Initial work* - [https://github.com/kevinjuwantoro/Arab-Saudi-Used-Car-Machine-learning)
+* **Hieremias Kevin Juwantoro** - *Initial work* - [https://github.com/kevinjuwantoro/E-commerce-Churn-Machine-Learning)
